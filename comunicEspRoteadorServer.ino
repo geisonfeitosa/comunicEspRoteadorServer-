@@ -3,8 +3,8 @@
 #define PINLED01 18 //Cliente 01
 #define MAXSC 1
 
-const char* ssid      = "LIVE TIM_41F9_2G";
-const char* password  = "2pxtrvv3hd";
+const char* ssid      = "Nome da rede";
+const char* password  = "Senha da rede";
 
 String message;
 WiFiServer server(80);
